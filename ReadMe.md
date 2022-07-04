@@ -14,6 +14,17 @@ Please feel free to contact studio Navanudi if you have any specific doubts.
 
 Detailed documentation can be found in Navanudi_20220704_elami_Brand-Guidelines-Zine.pdf
 
+### Our logo
+The logo is an important asset of elami’s brand. It’s distinguishing features makes it identifiable by our customers. It upholds our passion to deliver a good book to our reader. 
+
+The logo consists of a four rectangular bars and an eye. The wordmark sits right under the logo. 
+
+Using just the logo without the wordmark is a prefferable way to give emphasis to the logo.
+
+The eye in our logo is always searching for a good book just like our reader. It got many expressions to guide you through our content. 
+
+Sometimes certain places like the spine of a book are too small to hold our logo. In such places use the eye symbol unlinked from the rest of the logo.
+
 ## Directory tree
 ```
 .
@@ -71,10 +82,10 @@ The safe area which ensures the logo’s prominence is marked up using the eye s
 We have illustrated the safe areas of the logo and wordmark together in english, telugu and bilingual instances.(find themin the zine.)
 
 ### Logo placement and sizing
-The standard sizes for
-A5–148x210–18mm
-A4–210x297–26mm
-A3–297x420–37mm
+The standard sizes for:
+- A5–148x210–18mm
+- A4–210x297–26mm
+- A3–297x420–37mm
 
 One can easily determine the size of our logo with a simple formula. You just need to devide the width of the canvas with 8 and round up to the nearest 0.5mm, the result is the width of the logo for  that canvas. 
 
