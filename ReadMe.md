@@ -12,6 +12,7 @@ Please feel free to contact studio Navanudi if you have any specific doubts.
 Detailed documentation can be found in Navanudi_20220704_elami_Brand-Guidelines-Zine.pdf
 
 ## Directory tree
+'''
 .
 ├── Businesscard
 │   ├── Bussiness_card.indd
@@ -60,6 +61,7 @@ Detailed documentation can be found in Navanudi_20220704_elami_Brand-Guidelines-
 │       └── elami_logo_inverted_te_en.png
 ├── Navanudi_20220704_elami_Brand-Guidelines-Zine.pdf
 └── ReadMe.md
+'''
 
 ### fonts
 The fonts we are using 
