@@ -65,16 +65,16 @@ Detailed documentation can be found in Navanudi_20220704_elami_Brand-Guidelines-
 
 ### fonts
 The fonts we are using 
-[NotoSans](https://fonts.google.com/noto/specimen/Noto+Sans?query=noto)
+- [NotoSans](https://fonts.google.com/noto/specimen/Noto+Sans?query=noto)
 
-[NotoSans Telugu](https://fonts.google.com/noto/specimen/Noto+Sans+Telugu?query=noto)
+- [NotoSans Telugu](https://fonts.google.com/noto/specimen/Noto+Sans+Telugu?query=noto)
 
 ### Colours
 Hex codes of elami's brand colours:
-#231f20
-#b72025
-#8475b5
-#ecf6ef
+- `#231f20`
+- `#b72025`
+- `#8475b5`
+- `#ecf6ef`
 
 ### Don'ts
 The logo should never be stretched or squashed to fit places. Never redraw or trace. Also, no drop shadows. It is our unique voice and any funny bussiness with our logo is a nono!
